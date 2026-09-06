@@ -1,4 +1,7 @@
 {
+  "name": "trabalho-eng-software",
+  "version": "1.0.0",
+  "license": "ISC",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   },
